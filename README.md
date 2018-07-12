@@ -1,5 +1,7 @@
 # **Pixel 2 Blurry Panorama Fix**
 ## Description
+Systemlessly replaces camera.msm8998.so with the patched version.
+
 ## Changelog
 V1: Initial release
 
